@@ -1,13 +1,13 @@
 # Develop override settings
 
-url: http://localhost:4000
+url: http://ghota.github.io
 
 analytics:
   provider: false
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "ghota"
 
 sass:
   style: expanded
